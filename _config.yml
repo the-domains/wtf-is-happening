@@ -1,0 +1,28 @@
+name: wtf is happening
+favicon: null
+layout_spectrum: 0.5111811927054077
+typography_spectrum: 0.7164066375698894
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9223943969700485
+  lightness: 0.10162992030382156
+  saturation: 0.22405944974161685
+  rhythmicContrast: 0.9989640633575618
+purpose: []
